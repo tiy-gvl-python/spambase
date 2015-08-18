@@ -1,3 +1,5 @@
+Using Bayesian analysis to classify spam.
+
 # Classifying spam
 
 ## Description

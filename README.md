@@ -1,4 +1,6 @@
-# Classifying spam
+# Run Jeff spam homework.ipynb using Ipython Notebook
+
+## Classifying spam
 
 ## Description
 
